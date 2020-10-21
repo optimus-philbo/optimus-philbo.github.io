@@ -6,14 +6,14 @@
 		<description>Hosts audiobooks</description>
 		<language>en-gb</language>
 		<pubDate>Wed, 21 Oct 2020 12:00:00 GMT</pubDate>
-		<link>http://localhost:3356/rss_feed/xml</link>
+		<link>https://optimus-philbo.github.io/rss_feed.xml</link>
 		<item>
 			<author>Brandon Sanderson</author>
-			<title>Warbreaker, Part 1</title>
+			<title>Elantris: Part 18</title>
 			<pubDate>Wed, 21 Oct 2020 12:00:00 GMT</pubDate>
-			<enclosure url="http://localhost:3356/Audiobooks/Brandon Sanderson/Warbreaker/Warbreaker #001.mp3" type="audio/mpeg" />
+			<enclosure url="https://storage.googleapis.com/comicpunch-audiobooks/Brandon%20Sanderson/Elantris/Elantris/Elantris%20%23018.mp3" type="audio/mpeg" />
 			<image>
-				<url>http://localhost:3356/Audiobooks/Brandon Sanderson/Warbreaker/cover.jpg</url>
+				<url>https://storage.googleapis.com/comicpunch-audiobooks/Brandon%20Sanderson/Elantris/Elantris/cover.jpg</url>
 			</image>
 		</item>
 	</channel>
