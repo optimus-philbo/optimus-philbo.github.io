@@ -12,9 +12,16 @@
 			<title>Elantris: Part 18</title>
 			<pubDate>Wed, 21 Oct 2020 12:00:00 GMT</pubDate>
 			<enclosure url="https://storage.googleapis.com/comicpunch-audiobooks/Brandon%20Sanderson/Elantris/Elantris/Elantris%20%23018.mp3" type="audio/mpeg" />
-			<image>
-				<url>https://storage.googleapis.com/comicpunch-audiobooks/Brandon%20Sanderson/Elantris/Elantris/cover.jpg</url>
-			</image>
+			<itunes:image href="https://storage.googleapis.com/comicpunch-audiobooks/Brandon%20Sanderson/Elantris/Elantris/cover.jpg"</itunes:image>
+			<description>
+The city of the gods. Elantris once stood as the symbol of all that is beautiful. A sprawling metropolis of unrivaled grandeur, it was a symbol of power and strength, built to be as imposing as it was magnificent.
+
+The only thing more glorious than the city itself was its inhabitants, Godlike beings, with silvery skin and hair of the purest, flowing white. Able to create powerful magics with a mere wave of their hands, the Elantrians were able to heal mortal wounds and create any object they desired. To be an Elantrian was to be without sickness, without pain and without want.
+
+And anyone could become a god. Through a process known as the "Shaod",a normal person could go to bed one night and awake the next morning to throw away the shackles of mortality and become a being of incomparable power and grace. With Elantris as their beacon, the light inside all humanity was allowed to shine, elevating it to new heights.
+
+But Elantris fell...ten years ago.
+			</description>
 		</item>
 	</channel>
 </rss>
